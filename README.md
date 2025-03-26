@@ -6,6 +6,13 @@ Perk Up is a dynamic reward and loyalty system employed to help local businesses
 Technologies Used:
 
 HTML
+
 CSS
+
+Bootstrap
+
+PHP
+
+MySQL
 
 
